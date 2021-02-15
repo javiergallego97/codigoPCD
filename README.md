@@ -11,3 +11,4 @@ Los hilos se usan en FIFO.
 ## Créditos al autor original
 https://github.com/lennono/The-Sleeping-Barber-Problem
 
+### Recibido y en proceso de revisión
